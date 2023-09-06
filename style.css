@@ -379,13 +379,13 @@ section .title::after{
     width: 50%;
 }
 .skills-content .right .mysql::before{
-    width: 70%;
+    width: 90%;
 }
 .skills-content .right .Java::before{
     width: 70%;
 }
 .skills-content .right .oops::before{
-    width: 60%;
+    width: 90%;
 }
 .skills-content .right .C::before{
     width: 70%;
@@ -394,7 +394,7 @@ section .title::after{
     width: 70%;
 }
 .skills-content .right .python::before{
-    width: 90%;
+    width: 70%;
 }
 .skills-content .right .DSA::before{
     width: 70%;
