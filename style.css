@@ -391,13 +391,13 @@ section .title::after{
     width: 70%;
 }
 .skills-content .right .DBMS::before{
-    width: 70%;
+    width: 80%;
 }
 .skills-content .right .python::before{
     width: 70%;
 }
 .skills-content .right .DSA::before{
-    width: 70%;
+    width: 80%;
 }
 .skills-content .right .Os::before{
     width: 60%;
